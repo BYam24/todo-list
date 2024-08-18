@@ -1,0 +1,13 @@
+do "npm create vite@latest" to create npm react program
+when asked project name? type "." to have the name be the name of the directory of the project
+Then select react project
+then choose React framework (React is a JS library)
+
+Then do npm install to install some dependencies
+
+to start project do npm run dev
+
+
+
+For functional react
+npx create-react-app clone
